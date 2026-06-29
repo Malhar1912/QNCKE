@@ -2,6 +2,14 @@
 name = "qncke"
 version = "0.1.0"
 edition = "2024"
+description = "Non-commutative key exchange over invertible quaternions modulo a prime"
+license = "MIT"
+license-file = "LICENSE"
+documentation = "https://docs.rs/qncke"
+homepage = "https://github.com/Malhar1912/QNCKE"
+repository = "https://github.com/Malhar1912/QNCKE"
+keywords = ["key-exchange", "cryptography", "quaternion", "non-commutative", "AAG"]
+categories = ["cryptography", "math"]
 
 [dependencies]
 rand = "0.8"
