@@ -8,7 +8,7 @@ documentation = "https://docs.rs/qncke"
 homepage = "https://github.com/Malhar1912/QNCKE"
 repository = "https://github.com/Malhar1912/QNCKE"
 keywords = ["key-exchange", "cryptography", "quaternion", "non-commutative", "AAG"]
-categories = ["cryptography", "math"]
+categories = ["cryptography", "mathematics"]
 
 [dependencies]
 rand = "0.8"
