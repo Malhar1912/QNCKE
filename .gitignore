@@ -1,0 +1,10 @@
+# Rust
+/target
+
+# Editors
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
